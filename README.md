@@ -1,9 +1,9 @@
 # Welcome to Hillary Mugasia's README File
 
-I'm Hillary Mugasia, a web developer who's well vassed with HTML,CSS,JAVASCRIPT and NODE.JS
+I'm Hillary Mugasia, a web developer who's well vassed with HTML,CSS,JAVASCRIPT,React and PHP
 
 ## About Me
-I'm passionate about creating beautiful and functional websites. My journey into web development is an exciting one, and I'm constantly learning and improving my skills.
+I'm passionate about creating beautiful and functional websites. My journey into web development is an exciting one, and I'm constantly learning and improving my skills and adapting to emerging technologies 
 
 ## Projects
 🌟 Feel free to check out some of my projects on GitHub!
